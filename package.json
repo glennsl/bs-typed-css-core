@@ -1,5 +1,5 @@
 {
-  "name": "typed-css-core",
+  "name": "bs-typed-css-core",
   "version": "0.1.0",
   "scripts": {
     "build": "bsb -make-world",

@@ -1,5 +1,5 @@
 {
-  "name": "typed-css-core",
+  "name": "bs-typed-css-core",
   "bsc-flags": ["-bs-no-version-header"],
   "version": "0.1.0",
   "sources": [
