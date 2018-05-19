@@ -1,18 +1,5 @@
 # CSS. Typed.
 
-Hello! This project allows you to quickly get started with Reason and BuckleScript. If you wanted a more sophisticated version, try the `react` template (`bsb -theme react -init .`).
+`bs-typed-css-core` is a typed interface/DSL to CSS. It is not meant to be used directly by end users, but instead by library writers who wish to provide a common, standardized interface to the parts of their library that deals with css declarations.
 
-# Build
-```
-npm run build
-```
-
-# Build + Watch
-
-```
-npm run watch
-```
-
-
-# Editor
-If you use `vscode`, Press `Windows + Shift + B` it will build automatically
+End-users might want to look at [glennsl/bs-typed-glamor](https://github.com/glennsl/bs-typed-glamor) instead as an implementation of this interface based on Glamor.
